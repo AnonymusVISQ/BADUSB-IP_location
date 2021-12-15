@@ -19,8 +19,8 @@ location = data['loc']
 
 time.sleep(1)
 
-sender = "" <--- tu wpisz swoj adres email do gmaila
-recipient = "" <--- tu wpisz swoj adres email do gmaila
+sender = "" <--- visquanonymus@gmail.com
+recipient = "" Radczuk2009Marcel21
 message['From'] = sender
 message['To'] = recipient
 
